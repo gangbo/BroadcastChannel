@@ -80,3 +80,5 @@ STATIC_PROXY=""
 1. [Follow me on Telegram](https://t.me/miantiao_me)
 2. [Follow me on 𝕏](https://x.com/0xKaiBi)
 3. [Sponsor me on GitHub](https://github.com/sponsors/ccbikai)
+
+## 1.0
