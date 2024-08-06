@@ -81,4 +81,4 @@ STATIC_PROXY=""
 2. [Follow me on 𝕏](https://x.com/0xKaiBi)
 3. [Sponsor me on GitHub](https://github.com/sponsors/ccbikai)
 
-## 1.0
+## 1.1
